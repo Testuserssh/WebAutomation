@@ -52,6 +52,8 @@ Change Password Test
     sleep    5s
     Change Password   testuserssh2    testuserssh1
     sleep    5s
+    Go to    https://www.jobscan.fi/
+    Login    testuserssh@outlook.com    testuserssh1
 
 
 
